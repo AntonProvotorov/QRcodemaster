@@ -36,9 +36,12 @@
 ## Технологии и инструменты  
 - **Язык программирования:** Python  
 - **Библиотеки:**  
-  - `qrcode` – генерация QR-кодов.  
-  - `opencv-python` (cv2) + `pyzbar` – распознавание.  
-  - `tkinter` / `PyQt` – графический интерфейс.
+  - numpy
+- opencv-python
+- pillow
+- qrcode
+- requests
+- virtualenv
 
 ## Интерфейс программы
 ![image](https://github.com/user-attachments/assets/2b0ca007-48a3-4b2a-aa30-255e7466da2c)
