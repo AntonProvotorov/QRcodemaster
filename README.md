@@ -37,11 +37,11 @@
 - **Язык программирования:** Python  
 - **Библиотеки:**  
   - numpy
-- opencv-python
-- pillow
-- qrcode
-- requests
-- virtualenv
+  - opencv-python
+  - pillow
+  - qrcode
+  - requests
+  - virtualenv
 
 ## Интерфейс программы
 ![image](https://github.com/user-attachments/assets/2b0ca007-48a3-4b2a-aa30-255e7466da2c)
